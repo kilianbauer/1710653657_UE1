@@ -38,6 +38,11 @@ public class Aufgabe2_1710653657 {
 
         float comma2 = 2135242;
 
+        int konstante = 128;
+
+        /*Variablen sind eigentlich so etwas wie Konstanten (oder andersrum). Der einzige Unterschied ist, wie man der Bezeichnung "Variable" schon ansieht, dass die Variablen auch verändert werden können. Oder anders gesagt, Sie können einer Variable verschiedene Werte beliebig oft zuweisen. Konstanten kann man den Wert aber nur ein mal angeben. Danach lässt er sich sich nicht mehr verändern.*/
+
 
     }
 }
+
